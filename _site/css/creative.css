@@ -51,8 +51,13 @@ p {
     line-height: 1.5;
 }
 
+.bg-info {
+    color: #222;
+    background-color: #fff;
+}
 .bg-primary {
     background-color: #f05f40;
+
 }
 
 .bg-dark {
